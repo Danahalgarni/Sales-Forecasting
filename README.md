@@ -62,7 +62,7 @@ To run this project locally, follow these steps:
 
 To train the models and make predictions, run the following command:
 ```bash
-python sales_forecasting.py
+python SalesForecasting.py
 ```
 This will execute the training process and output the model performance, including the R-squared values for both **XGBoost** and **Random Forest**.
 
